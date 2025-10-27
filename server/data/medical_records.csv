@@ -1,0 +1,1 @@
+id,patient_id,visit_date,visit_type,health_worker_id,weight,height,temperature,blood_pressure,pulse,respiratory_rate,oxygen_saturation,symptoms,diagnosis,treatment,medications,appetite,food_intake,supplements,diet_plan,hemoglobin,blood_sugar,protein_level,notes,next_visit_date,follow_up_required,created_at,updated_at

@@ -1,0 +1,5 @@
+id,registration_number,aadhaar_number,name,age,type,pregnancy_week,contact_number,emergency_contact,address,weight,height,blood_pressure,temperature,hemoglobin,nutrition_status,medical_history,symptoms,documents,photos,remarks,risk_score,nutritional_deficiency,bed_id,last_visit_date,next_visit_date,registered_by,registration_date,is_active,created_at,updated_at
+f4ad8b0b-535b-4dc6-99ff-e778ab2f67c2,NRC1760677436120,1234-5525-6852,Abhi Sharma,2,child,,9457124202,9457124202,"H.no.51,new saraswati vihar,near om atta chakki
+rohta road",2,90,120/80,97.9,,severely_malnourished,[],"[""weekness""]",[],[],,85,"[""Protein"",""Iron"",""Vitamin D""]",,,2025-10-24,SYSTEM,2025-10-17,true,2025-10-17T05:03:56.120Z,2025-10-17T05:03:56.120Z
+4e4d0595-3b1f-40bb-be3d-595123c144ab,NRC1760678920198,2254-6588-6895,Abhi Sharma,2,child,,9457124202,9457124202,"H.no.51,new saraswati vihar,near om atta chakki
+rohta road",3,90,120/80,98,,severely_malnourished,[],"[""weakness""]",[],[],,85,"[""Protein"",""Iron"",""Vitamin D""]",,,2025-10-24,SYSTEM,2025-10-17,true,2025-10-17T05:28:40.198Z,2025-10-17T05:28:40.198Z

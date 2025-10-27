@@ -1,0 +1,1 @@
+id,patient_id,requested_by,request_date,urgency_level,medical_justification,current_condition,estimated_stay_duration,special_requirements,status,reviewed_by,review_date,review_comments,hospital_referral,created_at,updated_at

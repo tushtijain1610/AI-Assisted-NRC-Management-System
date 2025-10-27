@@ -1,0 +1,3 @@
+id,user_role,type,title,message,priority,action_required,read_status,date,created_at
+d7ad95f9-8c52-4b90-b7f1-55cbc037afae,supervisor,high_risk_alert,High Risk Patient Registered,New high-risk patient Abhi Sharma has been registered with severely_malnourished status.,high,true,true,2025-10-17,2025-10-17T05:03:56.134Z
+ce0f21f8-3001-4ca2-9555-9b337a815b88,supervisor,high_risk_alert,High Risk Patient Registered,New high-risk patient Abhi Sharma has been registered with severely_malnourished status.,high,true,true,2025-10-17,2025-10-17T05:28:40.207Z
